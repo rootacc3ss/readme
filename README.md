@@ -9,7 +9,7 @@ i am a serial entrepreneur, OSINT/CSINT enthusiast, ex-greyhat social engineer, 
 
 i am 100% an autist and just about everything interests me, so expect projects across a wide array of fields.
 
-i own a decently successful company (which i won't go too much in to for the sake of wanting to keep identies seperated for the time being) incorporated in the USA and Malta.
+i own a decently successful company, [sacraventures](https://sacra.ventures), incorporated in the USA and Malta.
 
 currently, my team and i are working on a few large SaaS projects -- one that has patent pending machine learning technology -- as well as a multitude of other projects that have been in the works for years.
 
