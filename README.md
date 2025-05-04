@@ -1,12 +1,30 @@
 # readme
+welcome! this page will serve as the only place to get updates on projects that i am updating to the public and to see which social media accounts are mine. 
+`this readme is a work in progress.`
 
-not much to say... right now, at least...
+## bio
+hello! i am `rootacc3ss`, aka `keygen`. 
 
-# update 04-28-2025
-i am going to make it a committment to open source some of my projects (and make some open source resources and tools) as almost all are private.
+i am a serial entrepreneur, OSINT/CSINT enthusiast, ex-greyhat social engineer, finance gremlin (i live on the charts and in the reports; ES keeps me fed); really, i am just a chronically online individual who knows his way around money and tech.
 
-i have been helped so much by those who open source their work -- it's time for me to give back!
+i am 100% an autist and just about everything interests me, so expect projects across a wide array of fields.
 
-i am working on an MCP Server that allows you to integrate Microsoft Azure products and resources in to your vibe coding with ease. i will definitely make that open source!
+i own a decently successful company (which i won't go too much in to for the sake of wanting to keep identies seperated for the time being) incorporated in the USA and Malta.
 
-love ya
+currently, my team and i are working on a few large SaaS projects -- one that has patent pending machine learning technology -- as well as a multitude of other projects that have been in the works for years.
+
+i primarily use github for private repository management, but i absolutely plan on dropping some bangers soon.
+
+thanks for reading! feel free to get in touch for any reason at all.
+
+regards,
+ra/keygen
+
+## pages that are mine (5/3/2025)
+- @keygen on substack, i do not use twitter or instagram
+- /u/rootacc3ss on reddit
+
+`if you own the handle @keygen on any large social media platforms, please send me an offer for purchase via Substack dms`
+
+## announcements
+none currently as of 5/3/2025
